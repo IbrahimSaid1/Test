@@ -61,7 +61,10 @@ public class Main {
 				writer3.write("Ahmed \njava ");
 					writer3.close();
 			
-			
+
+				writer4.write("Mohmmed \njava ");
+					writer4.close();
+				
 			
 			
 			
